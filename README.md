@@ -16,9 +16,8 @@ samples, guidance on mobile development, and a full API reference.
 ## Getting Started: FlutLab - Flutter Online IDE
 
 - Capturas
-- (![image](https://github.com/jctorres10/Act13-PageRouter/assets/143548160/2b4f27bf-50e2-46f6-8fdd-32bd0f3ff4b8)
+(![image](https://github.com/jctorres10/Act13-PageRouter/assets/143548160/f71bd734-ee4d-4b93-8bc9-8711cc9c89f5)
+)(![image](https://github.com/jctorres10/Act13-PageRouter/assets/143548160/a98920ee-fce5-4468-95ec-4f3f09186434)
+)(![image](https://github.com/jctorres10/Act13-PageRouter/assets/143548160/701524be-f4cf-4401-bc19-a4e1916ee76b)
 )
-- (![image](https://github.com/jctorres10/Act13-PageRouter/assets/143548160/1b390f8e-e4ce-4820-b89e-fe097483b2ac)
-)
-- (![image](https://github.com/jctorres10/Act13-PageRouter/assets/143548160/376372bc-ba46-464a-b7af-d1bd6f163007)
   
